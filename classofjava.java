@@ -3,7 +3,7 @@ public class classofjava {
 
         String name;
     }
-    class TestStudent2{
+    class TestStudent2{git
         public static void main(String args[]){
             classofjava s1=new classofjava();
 
